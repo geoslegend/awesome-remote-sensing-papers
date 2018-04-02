@@ -45,7 +45,7 @@ A curated list of the best remote sensing papers by category
 
 ## Other articles/tutorials
 ### Deep Learning
-- **Deep Learning for Semantic Segmentation of Aerial Imagery** (2017), L. Fishgold et al. [[pdf]](https://www.azavea.com/blog/2017/05/30/deep-learning-on-aerial-imagery/)
-- **Super-Resolution on Satellite Imagery using Deep Learning, Part 1** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-1-ec5c5cd3cd2)
--**Super-Resolution on Satellite Imagery using Deep Learning, Part 2** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-2-c9ce41dc0ee0)
--**Super-Resolution on Satellite Imagery using Deep Learning, Part 3** (2017), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-3-2e2f61eee1d3)
+- **Deep Learning for Semantic Segmentation of Aerial Imagery** (2017), L. Fishgold et al. [[pdf]](https://www.azavea.com/blog/2017/05/30/deep-learning-on-aerial-imagery/)  
+- **Super-Resolution on Satellite Imagery using Deep Learning, Part 1** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-1-ec5c5cd3cd2)  
+- **Super-Resolution on Satellite Imagery using Deep Learning, Part 2** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-2-c9ce41dc0ee0)  
+- **Super-Resolution on Satellite Imagery using Deep Learning, Part 3** (2017), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-3-2e2f61eee1d3)  
