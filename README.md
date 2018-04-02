@@ -10,9 +10,6 @@ A curated list of the best remote sensing papers by category
 - **Classification for High Resolution Remote Sensing Imagery Using a Fully Convolutional Network** (2017), G. Fu et al. [[pdf]](http://www.mdpi.com/2072-4292/9/5/498)
 - **Learning a Transferable Change Rule from a Recurrent Neural Network for Land Cover Change Detection** (2016), H. Lyu et al. [[pdf]](http://www.mdpi.com/2072-4292/8/6/506)
 
-### Google Earth Engine
-- **Google Earth Engine: Planetary-scale geospatial analysis for everyone** (2017), N. Gorelick et al. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
-
 ### Image Segmentation
 - **Review of remote sensing image segmentation techniques** (2015), H. Kaur [[pdf]](https://pdfs.semanticscholar.org/71bd/3e87594a1d3467809e545cb3261e641fbac8.pdf)
 
@@ -43,6 +40,13 @@ A curated list of the best remote sensing papers by category
 ### Time Series and Trend Analysis
 - **Detecting trend and seasonal changes in satellite image time series** (2010), J. Verbesselt et al. [[pdf]](https://www.researchgate.net/publication/222561032_Detecting_trend_and_seasonal_changes_in_satellite_image_time_series)  
 - **Detecting Change Dates from Dense Satellite Time Series Using a Sub-Annual Change Detection Algorithm** (2015), S. Cai et al. [[pdf]](http://www.mdpi.com/2072-4292/7/7/8705)
+
+### Tools
+- **Google Earth Engine: Planetary-scale geospatial analysis for everyone** (2017), N. Gorelick et al. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
+- **Spring: Integrating remote sensing and gis by objectoriented data modelling** (1996), G. Camara et al. [[pdf]](http://www.dpi.inpe.br/geopro/trabalhos/spring.pdf)
+- **TerraLib: Technology in Support of GIS Innovation** (2000) G. Camara et al. [[pdf]](http://www.dpi.inpe.br/geopro/modelagem/terralib.pdf)
+- **OMT-G: An Object-Oriented Data Model for Geographic Applications** (2001), K. A. V. Borges et al. [[pdf]](https://www.researchgate.net/publication/263174920_OMT-G_An_Object-Oriented_Data_Model_for_Geographic_Applications)
+- **The e-sensing architecture for big earth observation data analysis** (2018), G. Camara et al. [[pdf]](https://www.researchgate.net/publication/322699625_THE_E-SENSING_ARCHITECTURE_FOR_BIG_EARTH_OBSERVATION_DATA_ANALYSIS)
 
 ## Other articles/tutorials/thesis
 ### Deep Learning
