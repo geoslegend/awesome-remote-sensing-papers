@@ -43,8 +43,9 @@ A curated list of the best remote sensing papers by category
 - **Detecting trend and seasonal changes in satellite image time series** (2010), J. Verbesselt et al. [[pdf]](https://www.researchgate.net/publication/222561032_Detecting_trend_and_seasonal_changes_in_satellite_image_time_series)
 - **Detecting Change Dates from Dense Satellite Time Series Using a Sub-Annual Change Detection Algorithm** (2015), S. Cai et al. [[pdf]](http://www.mdpi.com/2072-4292/7/7/8705)
 
-## Other articles/tutorials
+## Other articles/tutorials/thesis
 ### Deep Learning
+- **Deep Learning for Instance Segmentation of Agricultural Fields** (2017), C. Rieke [[pdf]](https://github.com/christophrieke/InstanceSegmentation_Sentinel2)
 - **Deep Learning for Semantic Segmentation of Aerial Imagery** (2017), L. Fishgold et al. [[pdf]](https://www.azavea.com/blog/2017/05/30/deep-learning-on-aerial-imagery/)  
 - **Super-Resolution on Satellite Imagery using Deep Learning, Part 1** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-1-ec5c5cd3cd2)  
 - **Super-Resolution on Satellite Imagery using Deep Learning, Part 2** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-2-c9ce41dc0ee0)  
