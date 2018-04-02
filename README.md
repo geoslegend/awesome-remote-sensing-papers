@@ -36,12 +36,12 @@ A curated list of the best remote sensing papers by category
 - **Rapid land use change after socio-economic disturbances: the collapse of the Soviet Union versus Chernobyl** (2011), P. Hostert et al. [[pdf]](http://iopscience.iop.org/article/10.1088/1748-9326/6/4/045201/meta)
 
 ### Surface Temperature
-- **Satellite-derived land surface temperature: Current status and perspectives** (2013), Z. Li et al.  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0034425712004749)
-- **Online Global Land Surface Temperature Estimation from Landsat** (2017), D. Parastatidis et al. [[pdf]](Online Global Land Surface Temperature Estimation from Landsat)
+- **Satellite-derived land surface temperature: Current status and perspectives** (2013), Z. Li et al.  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0034425712004749)  
+- **Online Global Land Surface Temperature Estimation from Landsat** (2017), D. Parastatidis et al. [[pdf]](http://www.mdpi.com/2072-4292/9/12/1208)  
 - **Diversification of Land Surface Temperature Change under Urban Landscape Renewal: A Case Study in the Main City of Shenzhen, China** (2017), Y. Liu et al. [[pdf]](http://www.mdpi.com/2072-4292/9/9/919)  
 
 ### Time Series and Trend Analysis
-- **Detecting trend and seasonal changes in satellite image time series** (2010), J. Verbesselt et al. [[pdf]](https://www.researchgate.net/publication/222561032_Detecting_trend_and_seasonal_changes_in_satellite_image_time_series)
+- **Detecting trend and seasonal changes in satellite image time series** (2010), J. Verbesselt et al. [[pdf]](https://www.researchgate.net/publication/222561032_Detecting_trend_and_seasonal_changes_in_satellite_image_time_series)  
 - **Detecting Change Dates from Dense Satellite Time Series Using a Sub-Annual Change Detection Algorithm** (2015), S. Cai et al. [[pdf]](http://www.mdpi.com/2072-4292/7/7/8705)
 
 ## Other articles/tutorials/thesis
