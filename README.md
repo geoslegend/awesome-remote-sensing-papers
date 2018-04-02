@@ -1,4 +1,4 @@
-# awesome-remote-sensing-papers
+# Awesome Remote Sensing Papers
 A curated list of the best remote sensing papers by category
 
 ### Machine Learning
