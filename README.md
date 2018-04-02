@@ -14,7 +14,7 @@ A curated list of the best remote sensing papers by category
 - **Google Earth Engine: Planetary-scale geospatial analysis for everyone** (2017), N. Gorelick et al. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 
 ### Image Segmentation
--- **Review of remote sensing image segmentation techniques** (2015), H. Kaur [[pdf]](https://pdfs.semanticscholar.org/71bd/3e87594a1d3467809e545cb3261e641fbac8.pdf)
+- **Review of remote sensing image segmentation techniques** (2015), H. Kaur [[pdf]](https://pdfs.semanticscholar.org/71bd/3e87594a1d3467809e545cb3261e641fbac8.pdf)
 
 ### GEOBIA/OBIA
 - **Object based image analysis for remote sensing** (2010), T. Blaschke [[pdf]](https://www.sciencedirect.com/science/article/pii/S0924271609000884)
