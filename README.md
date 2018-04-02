@@ -38,6 +38,7 @@ A curated list of the best remote sensing papers by category
 ### Surface Temperature
 - **Satellite-derived land surface temperature: Current status and perspectives** (2013), Z. Li et al.  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0034425712004749)
 - **Online Global Land Surface Temperature Estimation from Landsat** (2017), D. Parastatidis et al. [[pdf]](Online Global Land Surface Temperature Estimation from Landsat)
+- **Diversification of Land Surface Temperature Change under Urban Landscape Renewal: A Case Study in the Main City of Shenzhen, China** (2017), Y. Liu et al. [[pdf]](http://www.mdpi.com/2072-4292/9/9/919)  
 
 ### Time Series and Trend Analysis
 - **Detecting trend and seasonal changes in satellite image time series** (2010), J. Verbesselt et al. [[pdf]](https://www.researchgate.net/publication/222561032_Detecting_trend_and_seasonal_changes_in_satellite_image_time_series)
