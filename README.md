@@ -47,6 +47,7 @@ A curated list of the best remote sensing papers by category
 - **TerraLib: Technology in Support of GIS Innovation** (2000) G. Camara et al. [[pdf]](http://www.dpi.inpe.br/geopro/modelagem/terralib.pdf)
 - **OMT-G: An Object-Oriented Data Model for Geographic Applications** (2001), K. A. V. Borges et al. [[pdf]](https://www.researchgate.net/publication/263174920_OMT-G_An_Object-Oriented_Data_Model_for_Geographic_Applications)
 - **The e-sensing architecture for big earth observation data analysis** (2018), G. Camara et al. [[pdf]](https://www.researchgate.net/publication/322699625_THE_E-SENSING_ARCHITECTURE_FOR_BIG_EARTH_OBSERVATION_DATA_ANALYSIS)
+- **The KEA image file format** (2013), P. Bunting et al. [[pdf]](http://users.aber.ac.uk/pfb/webdownloads/pbunting_sgillingham_KEA.pdf)
 
 ## Other articles/tutorials/thesis
 ### Deep Learning
