@@ -56,3 +56,6 @@ A curated list of the best remote sensing papers by category
 - **Super-Resolution on Satellite Imagery using Deep Learning, Part 1** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-1-ec5c5cd3cd2)  
 - **Super-Resolution on Satellite Imagery using Deep Learning, Part 2** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-2-c9ce41dc0ee0)  
 - **Super-Resolution on Satellite Imagery using Deep Learning, Part 3** (2017), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-3-2e2f61eee1d3)  
+- **ImageNet Classification with Deep Convolutional Neural Networks** (2012), A. Krizhevsky et at. [[pdf]](https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf)
+- **Very Deep Convolutional Networks for Large-Scale Image Recognition** (2015), K. Siminyan & A. Zisserman [[pdf]](https://arxiv.org/pdf/1409.1556.pdf)
+- **Gradient-based Learning Applied to Document Recognition** (1998), Y. LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
