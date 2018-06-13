@@ -9,6 +9,9 @@ A curated list of the best remote sensing papers by category
 - **Transferring Deep Convolutional Neural Networks for the Scene Classification of High-Resolution Remote Sensing Imagery** (2015), F. Hu et al. [[pdf]](http://www.mdpi.com/2072-4292/7/11/14680)
 - **Classification for High Resolution Remote Sensing Imagery Using a Fully Convolutional Network** (2017), G. Fu et al. [[pdf]](http://www.mdpi.com/2072-4292/9/5/498)
 - **Learning a Transferable Change Rule from a Recurrent Neural Network for Land Cover Change Detection** (2016), H. Lyu et al. [[pdf]](http://www.mdpi.com/2072-4292/8/6/506)
+- **ImageNet Classification with Deep Convolutional Neural Networks** (2012), A. Krizhevsky et at. [[pdf]](https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf)
+- **Very Deep Convolutional Networks for Large-Scale Image Recognition** (2015), K. Siminyan & A. Zisserman [[pdf]](https://arxiv.org/pdf/1409.1556.pdf)
+- **Gradient-based Learning Applied to Document Recognition** (1998), Y. LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 
 ### Image Segmentation
 - **Review of remote sensing image segmentation techniques** (2015), H. Kaur [[pdf]](https://pdfs.semanticscholar.org/71bd/3e87594a1d3467809e545cb3261e641fbac8.pdf)
@@ -56,6 +59,3 @@ A curated list of the best remote sensing papers by category
 - **Super-Resolution on Satellite Imagery using Deep Learning, Part 1** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-1-ec5c5cd3cd2)  
 - **Super-Resolution on Satellite Imagery using Deep Learning, Part 2** (2016), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-2-c9ce41dc0ee0)  
 - **Super-Resolution on Satellite Imagery using Deep Learning, Part 3** (2017), P. Hagerty [[pdf]](https://medium.com/the-downlinq/super-resolution-on-satellite-imagery-using-deep-learning-part-3-2e2f61eee1d3)  
-- **ImageNet Classification with Deep Convolutional Neural Networks** (2012), A. Krizhevsky et at. [[pdf]](https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf)
-- **Very Deep Convolutional Networks for Large-Scale Image Recognition** (2015), K. Siminyan & A. Zisserman [[pdf]](https://arxiv.org/pdf/1409.1556.pdf)
-- **Gradient-based Learning Applied to Document Recognition** (1998), Y. LeCun et al. [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
